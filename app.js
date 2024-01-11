@@ -1,5 +1,5 @@
 var data = {
-    imgClass: 'img-fluid',
+    imgClass: 'img-fluid w-25',
     products: [
         {
             id: "532",
